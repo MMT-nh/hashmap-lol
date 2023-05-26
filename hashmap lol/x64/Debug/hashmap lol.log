@@ -1,0 +1,8 @@
+﻿  hashmap lol.cpp
+C:\Users\mmtma\OneDrive\Desktop\hashmap lol\hashmap lol\hashmap lol.cpp(39,9): warning C4101: 'row': unreferenced local variable
+C:\Users\mmtma\OneDrive\Desktop\hashmap lol\hashmap lol\hashmap lol.cpp(39,22): warning C4101: 'c': unreferenced local variable
+C:\Users\mmtma\OneDrive\Desktop\hashmap lol\hashmap lol\hashmap lol.cpp(39,14): warning C4101: 'col': unreferenced local variable
+C:\Users\mmtma\OneDrive\Desktop\hashmap lol\hashmap lol\hashmap lol.cpp(278): warning C4715: 'LinkedList::searchModel': not all control paths return a value
+C:\Users\mmtma\OneDrive\Desktop\hashmap lol\hashmap lol\hashmap lol.cpp(324): warning C4715: 'LinkedList::searchDate': not all control paths return a value
+C:\Users\mmtma\OneDrive\Desktop\hashmap lol\hashmap lol\hashmap lol.cpp(301): warning C4715: 'LinkedList::searchMake': not all control paths return a value
+  hashmap lol.vcxproj -> C:\Users\mmtma\OneDrive\Desktop\hashmap lol\x64\Debug\hashmap lol.exe
