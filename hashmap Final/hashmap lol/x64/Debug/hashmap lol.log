@@ -1,0 +1,5 @@
+﻿  hashmap lol.cpp
+C:\Users\SLIM 7\source\repos\hashmap lol\hashmap lol\hashmap lol.cpp(140): warning C4715: 'LinkedList::searchModel': not all control paths return a value
+C:\Users\SLIM 7\source\repos\hashmap lol\hashmap lol\hashmap lol.cpp(163): warning C4715: 'LinkedList::searchMake': not all control paths return a value
+C:\Users\SLIM 7\source\repos\hashmap lol\hashmap lol\hashmap lol.cpp(186): warning C4715: 'LinkedList::searchDate': not all control paths return a value
+  hashmap lol.vcxproj -> C:\Users\SLIM 7\source\repos\hashmap lol\x64\Debug\hashmap lol.exe
